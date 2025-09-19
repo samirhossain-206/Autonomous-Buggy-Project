@@ -3,16 +3,16 @@ An autonomous Arduino buggy that detects obstacles using an ultrasonic sensor mo
 
 Components Used:
 
-Arduino Uno
-2 DC motors with motor driver
-Servo motor for sensor scanning
-Ultrasonic sensor
-H-bridge motor
-Mini breadboard
+Arduino Uno,
+2 DC motors with motor driver |
+Servo motor for sensor scanning |
+Ultrasonic sensor |
+H-bridge motor |
+Mini breadboard |
 Chassis, wheels, and battery pack
 
 Features:
 
-Moves forward automatically
-Detects obstacles in front, left, and right
-Chooses optimal path to avoid obstacles
+Moves forward automatically |
+Detects obstacles in front, left, and right |
+Chooses optimal path to avoid obstacles |
