@@ -1,4 +1,5 @@
 # Autonomous-Buggy-Project
+IN ORDER TO DOWNLOAD AND OPEN THE FILE, YOU HAVE TO HAVE ARDUINO IDE DOWNLOADED
 An autonomous Arduino buggy that detects obstacles using an ultrasonic sensor mounted on a servo. It controls two DC motors to move forward, turn left/right, or turn around based on obstacle distance readings.
 
 Components Used:
